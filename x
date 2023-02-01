@@ -71,7 +71,7 @@ export default {
 </head>
 
 <body>
-<h1>花开花落终有时，
+<h1>花开花终有时，
 相逢相聚本无意<!DOCTYPE html>
 <html>
 <head>
